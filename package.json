@@ -1,0 +1,15 @@
+{
+  "name": "wiki_displayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wiki_displayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jsdom": "^16.4.0"
+  }
+}
